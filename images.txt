@@ -1,4 +1,3 @@
-cloudreve.azurecr.io/cloudreve/pro:latest
 jiangrui1994/cloudsaver:latest
 madrays/sun-panel-helper:latest
 hslr/sun-panel:latest
